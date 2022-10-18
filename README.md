@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GrantGuernsey
-- 👀 I’m interested in data analysis and machine learning, but I really just have a passion for coding.
-- 🌱 I’m currently learning C++, Python, and Visual Basic.
-- 💞️ I’m looking for someone to help me learn machine learning, and computational tools for data analysis. I am also down to collaborate on any project.
+- 👀 I’m interested in machine learning. I have 2 co-op's of experince in that field
+- 🌱 I work in C, C++, Python, and Java. I'm in the process if learning JS.
+- 💞️ I’m looking for someone to help me learn front end processes so I can work to be a full stack developer.
 - 📫 How to reach me guernsgd@mail.uc.edu is my school email and it is the best way to reach out to me.
 
 <!---
