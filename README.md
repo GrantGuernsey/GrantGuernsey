@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GrantGuernsey
-- 👀 I’m interested in machine learning. I have 2 co-op's of experince in that field
-- 🌱 I work in C, C++, Python, and Java. I'm in the process if learning JS.
-- 💞️ I’m looking for someone to help me learn front end processes so I can work to be a full stack developer.
+- 👀 I’m interested in machine learning. I have 3 co-op's of experince in that field, with 4 co-ops in total.
+- 🌱 I work in C, C++, and Python.
+- I am a fourth-year Computer Science student at the University of Cincinnati for both my bachelor's and master's degrees.
 - 📫 How to reach me guernsgd@mail.uc.edu is my school email and it is the best way to reach out to me.
 
 <!---
