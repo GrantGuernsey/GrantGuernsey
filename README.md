@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GrantGuernsey
-- 👀 I’m interested in machine learning. I have 3 co-op's of experince in that field, with 4 co-ops in total.
+- 👀 I’m interested in machine learning. I have 4 co-op's of experince in that field, with 6 co-ops in total.
 - 🌱 I work in C, C++, and Python.
-- I am a fourth-year Computer Science student at the University of Cincinnati for both my bachelor's and master's degrees.
+- I am a fifth-year Computer Science student at the University of Cincinnati for both my bachelor's and master's degrees.
 - 📫 How to reach me guernsgd@mail.uc.edu is my school email and it is the best way to reach out to me.
 
 <!---
